@@ -33,8 +33,7 @@ N = 100 modes are used for convergence.
 |------|-------------|
 | `WG_ex.m` | MATLAB simulation — mode-matching solver, S-parameter computation, power check |
 | `wg_ex.cst` | CST Microwave Studio simulation file (full-wave reference) |
-| `תרגיל מחשב.pdf` | Full written report (Hebrew) with derivations, results, and analysis |
-| `Computer Exercise.docx` | Written report (English/mixed) |
+| `Computer Exercise.PDF` | Written report  |
 
 ## Results
 
